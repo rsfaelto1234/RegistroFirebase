@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808445285992",
+    "firebase_url": "https://trezo-de96b.firebaseio.com",
+    "project_id": "trezo-de96b",
+    "storage_bucket": "trezo-de96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808445285992:android:5a8675a7837b8d5f",
+        "android_client_info": {
+          "package_name": "com.example.registrofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808445285992-tdsklc8dnd4k5a3bsi2g1mbbnou5k2t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registrofirebase",
+            "certificate_hash": "c2b3ef93d5e55319a9945cbb0ecf078fcc30a71c"
+          }
+        },
+        {
+          "client_id": "808445285992-pvq15nhqen03mrkijnldj4ets6cdovsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46bYMBHHR4KzeE2_W9rmkhhnMrT2QAlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808445285992-pvq15nhqen03mrkijnldj4ets6cdovsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
